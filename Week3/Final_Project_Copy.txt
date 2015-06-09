@@ -1,0 +1,24 @@
+Section: Title Page
+Welcome to Long Hair Don’t Care! 
+Enter.
+
+Section: Home Page
+Here at LHDC the only thing we care about is your hair. Whether it’s big,  long, straight, or curly...show off your goods to the world and display what makes your hair so unique. 
+
+We understand that it takes a lot of work to maintain that fabulous do and we’re here so that you can share it with the world! Offer advice, product reviews, hair regimes, or just show off your stunning hairstyles for all of your potential fans. 
+
+So sit back, browse around, and inspire yourself with Hair Gurus all around the world.
+
+Section: Profile Page
+Ready to show off that hair? We want to hear all about it. So tell us what makes you...well...you! Customize your personal profile!
+
+Not here to show and tell? No worries. Check out our Hair Guru profiles and discover new ways to change the overall health of your hair. 
+
+Section: Hair Routine Page
+What does Wash day look like for you?
+What sort of products do you use in your hair?
+What are your favorite hair techniques?
+What styling tools do you use?
+
+Section: Hair Styling Page (Photo Page)
+*User's upload images here and display their pictures depicting their hair in a "tile" format similar to Pinterest.*
