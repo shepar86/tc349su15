@@ -1,0 +1,9 @@
+Final
+http://shepar86.github.io/index.html
+
+
+Validation Links
+<http://validator.w3.org/check?uri=http%3A%2F%2Fshepar86.github.io%2Findex.html>
+<http://validator.w3.org/check?uri=http%3A%2F%2Fshepar86.github.io%2Fhalloffame2.html>
+<http://validator.w3.org/check?uri=http%3A%2F%2Fshepar86.github.io%2Fgallery2.html>
+<http://validator.w3.org/check?uri=http%3A%2F%2Fshepar86.github.io%2Fsources.html>
